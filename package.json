@@ -1,0 +1,28 @@
+{
+  "name": "lighting",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "bunyan-debug-stream": "^1.0.8",
+    "color-convert": "^1.9.0",
+    "convict": "^4.0.1",
+    "e131": "^1.1.1",
+    "fs-extra": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcurcio/lighting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcurcio/lighting/issues"
+  },
+  "homepage": "https://github.com/mcurcio/lighting#readme"
+}
